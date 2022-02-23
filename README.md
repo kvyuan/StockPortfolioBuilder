@@ -2,7 +2,7 @@
 # StockPortfolioBuilder
 > Always wanted to build my own trading system from scratch. 
 >Quarantine gave me a perfect opportunity to do so. 
->The ultimate goal is to connect to a broker account with API for live trading :)
+>The ultimate goal is to connect to an IBKR broker account with API for live trading :)
 
 
 ## Implemented Features
